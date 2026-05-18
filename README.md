@@ -1,5 +1,5 @@
 # protein-classifier
-Protein Classifier: Classifies food items which are deemed as high protein
+Protein Classifier: Classifies food items which are deemed as high protein. Dataset: https://www.kaggle.com/datasets/kmader/food41
 
 ![Sample food](sample_food.jpg)
 ![Accuracy convergence](images/accuracy.PNG)
